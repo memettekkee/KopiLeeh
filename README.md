@@ -1,3 +1,3 @@
 # KopiLeeh
 
-Website kopi sop nak muda skena skini Balikpapan
+KopiLeeh website dibangun menggunakan framework Angular sebagai kebutuhan info dari CoffeShop yang baru saja terbentuk
